@@ -1,5 +1,5 @@
 # Future-Projects
-## Web App
+## Web App Projects
 #### A image to text website
 Either build it with pure java and html and css, or with React or with even Django, I just want to build something this simple to famaralize myself with Javascript
 #### Instagram Tracker
