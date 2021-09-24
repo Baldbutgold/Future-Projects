@@ -9,6 +9,9 @@ Either build it with pure java and html and css, or with React or with even Djan
 #### Instagram Tracker
 I want to build an Instagram tracker, put it someone's @ and then watch the magic happen from tracking the online times, activities, comments, tags, to Saving there  stories, posts, this project will be firstly built in with python if it is functional then I'm going to move it to the web  
 
+## HTML & CSS Projects
+Work on them on Free Code Camp
+
 ## Javascript Projects
 [Bacground Changer][instagram-post]</br>
 [Letter counter][instagram-post]</br>
