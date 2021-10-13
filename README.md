@@ -25,6 +25,7 @@ I want to build an Instagram tracker, put it someone's @ and then watch the magi
 Work on them on Free Code Camp
 
 ## Javascript Projects
+
 [Bacground Changer][instagram-post]</br>
 [Letter counter][instagram-post]</br>
 [Counter][instagram-post]</br>
@@ -34,5 +35,5 @@ Work on them on Free Code Camp
 [Image Slider][instagram-post]</br>
 [Calculator][instagram-post]</br>
 [2D Ping Pong][instagram-post]</br>
-
+css-grid generator
 [instagram-post]:https://www.instagram.com/p/CTpJRCPhgWF/
